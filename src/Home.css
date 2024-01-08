@@ -1,0 +1,12 @@
+/*body
+{
+    /*background:url(.../images/logo.png)*/
+/*}*/
+
+body{background-color: aliceblue}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
