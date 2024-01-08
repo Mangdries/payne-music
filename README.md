@@ -1,2 +1,2 @@
 # payne-music
-The offical repository for payne music productions
+The offical repository for the payne music productions website (in development!)
