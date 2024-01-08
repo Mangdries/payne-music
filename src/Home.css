@@ -3,10 +3,24 @@
     /*background:url(.../images/logo.png)*/
 /*}*/
 
-body{background-color: aliceblue}
+body{background-color: black}
+
+/*Todo: This can most likely be made better*/
 
 .center {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.right {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+
+.left {
+    display: flex;
+    justify-content: left;
+    align-items: left;
 }
