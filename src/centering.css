@@ -3,7 +3,10 @@
     /*background:url(.../images/logo.png)*/
 /*}*/
 
-body{background-color: black}
+body{
+    background-color: darkred;
+    background-size: cover;
+}
 
 /*Todo: This can most likely be made better*/
 
