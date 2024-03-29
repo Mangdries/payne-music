@@ -1,14 +1,11 @@
-/*body
+body
 {
-    /*background:url(.../images/logo.png)*/
-/*}*/
-
-body{
-    background-color: darkred;
-    background-size: cover;
+    background-image: url('../src/images/bg.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
-
-/*Todo: This can most likely be made better*/
 
 .center {
     display: flex;
@@ -18,12 +15,12 @@ body{
 
 .right {
     display: flex;
-    justify-content: right;
-    align-items: right;
+    justify-content: flex-end;
+    align-items: flex-end;
 }
 
 .left {
     display: flex;
-    justify-content: left;
-    align-items: left;
+    justify-content: flex-start;
+    align-items: flex-start;
 }
